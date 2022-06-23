@@ -96,15 +96,15 @@ The ship's computer and the simulation itself also is under keyboard control
 
 * most right:
   - crash type:
-    . green: crash off
-    . Red: crash restarts program
-    . blue: crash bounces spacecraft off course
+    - green: crash off
+    - Red: crash restarts program
+    - blue: crash bounces spacecraft off course
 * between dials:
   - compass alignment (doesn't always work)
 * under horizontal meter
   - Auto track:
-    . red: off
-    . green: on
+    - red: off
+    - green: on
 * Left of horizontal meter:
   - direction     
 
@@ -112,7 +112,7 @@ The ship's computer and the simulation itself also is under keyboard control
 
 * right, just below crash type indicator
   - Weapons status indicator unit
-    . Red: weapon systems armed
-    . Green: weapon systems disarmed
-    . Plus sign (+) in unit: object tracked is in weapon range
-    . Small vector: absolute direction of motion of track object
+    - Red: weapon systems armed
+    - Green: weapon systems disarmed
+    - Plus sign (+) in unit: object tracked is in weapon range
+    - Small vector: absolute direction of motion of track object
