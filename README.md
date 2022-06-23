@@ -76,43 +76,43 @@ The ship's computer and the simulation itself also is under keyboard control
 ### Dials:
 
 * top dial (compass):
- - x,y vector (heading)
- - white needle: way your ship is pointing
- - green needle: way your ship is moving
- - white nicks: angle to object being tracked
+  - x,y vector (heading)
+  - white needle: way your ship is pointing
+  - green needle: way your ship is moving
+  - white nicks: angle to object being tracked
 * Bottom Dial (pitch meter):
- - pitch
+  - pitch
 
 ### Meters:
 
 * Horizontal:
- - graphic velocity representation
+  - graphic velocity representation
 * Vertical at left:
- - thruster power
+  - thruster power
 * Vertical at right:
- - Main engine power
+  - Main engine power
 
 ### Lights:
 
 * most right:
- - crash type:
-  . green: crash off
-  . Red: crash restarts program
-  . blue: crash bounces spacecraft off course
+  - crash type:
+    . green: crash off
+    . Red: crash restarts program
+    . blue: crash bounces spacecraft off course
 * between dials:
- - compass alignment (doesn't always work)
+  - compass alignment (doesn't always work)
 * under horizontal meter
- - Auto track:
-  . red: off
-  . green: on
+  - Auto track:
+    . red: off
+    . green: on
 * Left of horizontal meter:
- - direction     
+  - direction     
 
 ### Other Objects on panel:
 
 * right, just below crash type indicator
- - Weapons status indicator unit
-  . Red: weapon systems armed
-  . Green: weapon systems disarmed
-  . Plus sign (+) in unit: object tracked is in weapon range
-  . Small vector: absolute direction of motion of track object
+  - Weapons status indicator unit
+    . Red: weapon systems armed
+    . Green: weapon systems disarmed
+    . Plus sign (+) in unit: object tracked is in weapon range
+    . Small vector: absolute direction of motion of track object
